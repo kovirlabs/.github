@@ -1,0 +1,11 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Question or help
+    url: https://github.com/kovirlabs/community/discussions/categories/q-a
+    about: Ask in the Kovir Labs community forum.
+  - name: Idea for a new tool
+    url: https://github.com/kovirlabs/community/discussions/categories/ideas
+    about: Suggest software for mission-driven work. The kovir.org team reviews ideas there.
+  - name: Security vulnerability
+    url: https://github.com/kovirlabs/.github/blob/main/SECURITY.md
+    about: Report privately. Please don't open a public issue.

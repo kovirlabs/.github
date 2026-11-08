@@ -1,0 +1,25 @@
+name: Feature request
+description: Suggest an improvement to this project.
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Ideas for a **new** tool belong in the [community forum](https://github.com/kovirlabs/community/discussions/categories/ideas). Use this form for changes to this project.
+  - type: textarea
+    id: problem
+    attributes:
+      label: What problem would this solve?
+      description: Who runs into it, and what do they do today?
+    validations:
+      required: true
+  - type: textarea
+    id: solution
+    attributes:
+      label: What would you like to happen?
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives you've considered
