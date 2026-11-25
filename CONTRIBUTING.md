@@ -4,17 +4,27 @@ Thanks for helping. Kovir Labs builds open-source tools for mission-driven organ
 
 > This is the default guide for every Kovir Labs repository. If a repository has its own `CONTRIBUTING.md`, follow that one instead; it has the project's setup steps and rules.
 
+## Our ethos: fill in the gaps others overlook
+
+Every Kovir Labs project follows these principles:
+
+- **Write once, benefit all.** Build tools that can serve almost anyone in a field, not one client. Keep a generic core and put anything specific to an organization into configuration instead of custom code.
+- **Focus on the underserved.** That means organizations and sectors that need help and development, and technology that needs help and development.
+- **Find the efficiencies nobody has built yet.** Look for the gains that haven't been made in a sector or a software stack, and make them.
+
+The principles stay firm. Ideas, features and approaches are open to anyone, as long as they respect the principles. They are also the filter for choosing which projects and features to take on, whether they're our ideas or a contributor's. If your contribution needs something specific to one organization, look for a way to make it configuration rather than custom code.
+
 ## Ways to help
 
 - **Report a bug.** Open an issue in the project's repository using the bug report form. Steps to reproduce and your operating system or version help most.
 - **Suggest a feature for an existing project.** Open an issue using the feature request form.
-- **Suggest a new tool.** Post it in the [community forum](https://github.com/kovirlabs/community/discussions/categories/ideas). The kovir.org team decides which ideas Kovir Labs takes on, favoring needs many organizations share.
+- **Suggest a new tool.** Post it in the [community forum](https://github.com/kovirlabs/community/discussions/categories/ideas). The kovir.org team decides which ideas Kovir Labs takes on, using the principles above as the filter.
 - **Ask a question.** Use the [community forum Q&A](https://github.com/kovirlabs/community/discussions/categories/q-a) rather than an issue.
 - **Improve the docs.** Typos, unclear steps and missing examples are all worth a pull request.
 
 ## Making a change
 
-1. **Talk first for anything big.** For a new feature or a large refactor, open an issue or discussion before writing code, so we can agree it fits the project.
+1. **Talk first for anything big.** For a new feature or a large refactor, open an issue or discussion before writing code, so we can agree it fits the project and the principles.
 2. **Fork the repository** and create a branch from `main`.
 3. **Keep each pull request to one logical change.** Small pull requests are reviewed faster.
 4. **Follow the project's style** and make sure its tests and checks pass.

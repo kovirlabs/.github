@@ -1,10 +1,18 @@
 # Kovir Labs
 
-**Open software for mission-driven work. Built once, useful to many organizations.**
+**Cover the gaps, empower others.**
 
-Kovir Labs is the development arm of [Kovir LLC](https://kovir.org). We build tools that many mission-driven organizations can use, not custom software for just one. Everything here is open source and free for every organization to use.
+Kovir Labs is the development arm of [Kovir LLC](https://kovir.org). We build open software for mission-driven work: tools that many organizations can use, not custom software for just one. Everything here is open source and free for every organization to use.
 
 🌐 [labs.kovir.org](https://labs.kovir.org) · 💡 [Suggest an idea](https://github.com/kovirlabs/community/discussions) · ✉️ [info@kovir.org](mailto:info@kovir.org)
+
+## Our ethos: fill in the gaps others overlook
+
+- **Write once, benefit all.** Build tools that can serve almost anyone in a field, not one client. Keep a generic core and put anything specific to an organization into configuration instead of custom code.
+- **Focus on the underserved.** That means organizations and sectors that need help and development, and technology that needs help and development.
+- **Find the efficiencies nobody has built yet.** Look for the gains that haven't been made in a sector or a software stack, and make them.
+
+The principles stay firm. Ideas, features and approaches are open to anyone, as long as they respect the principles, and the principles are the filter we use to choose which projects to take on, whether they're our ideas or a contributor's.
 
 ## Officially supported
 
@@ -33,7 +41,7 @@ Projects in progress or under evaluation:
 ## How ideas become software
 
 1. **Suggest.** Anyone can post a need on the [community forum](https://github.com/kovirlabs/community/discussions). Upvotes and comments show how widely it's felt.
-2. **Kovir decides.** The kovir.org team chooses what Kovir Labs takes on, favoring needs that many organizations share.
+2. **Kovir decides.** The kovir.org team chooses what Kovir Labs takes on, using the principles above as the filter.
 3. **Labs builds and supports.** Accepted ideas become open-source tools, maintained by Kovir Labs.
 
 ---
